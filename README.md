@@ -22,3 +22,7 @@ Using the code shown above, 43% of Vine reviews were 5 stars and 48% of non-Vine
 
 
 ##Summary
+- Total Summary Statistics
+![alt_text](https://github.com/NassimNatA/Amazon_Vine_Analysis-/blob/main/TotalSummary.png)
+
+Based on the data analysis shown above, is there is not a significant bias for Vine vs. Non-Vine reviews having 5 star ratings. As shown in the summary table above and in the results, the two types of reviews were within 5% of each other for 5-star ratings. However, it is notable that there was a much larger distribution of non-Vine reviews (25094) compared to Vine reviews (463) for this dataset. Additional analysis recommended would be to deep-dive into the categories with Vine vs. Non-Vine reviews, for example: how many products from Vine-reviewed category were purchased vs. number of products purchased from Non-Vine reivewed category. This will help determine if these reviewes have a strong influence in customer discretion in purchasing the products. 
